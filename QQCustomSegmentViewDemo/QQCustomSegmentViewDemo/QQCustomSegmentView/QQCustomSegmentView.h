@@ -1,7 +1,7 @@
 //
 //  QQCustomSegmentView.h
 //  iZichanTask
-//
+//  自定义选项卡
 //  Created by quanqi on 16/5/28.
 //  Copyright © 2016年 iZichan. All rights reserved.
 //
